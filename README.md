@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p>AI</p>
+  <p>👑 AI 👑</p>
   
   <p>
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
   </p>
 
-  <p>DB, Design</p>
+  <p>✏️ DB, Design ✏️</p>
 
   <p>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   </p>
 
-  <p>Developer/Forums, Browsers</p>
+  <p>🔎 Developer/Forums, Browsers 🔎</p>
 
   <p>
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
   </p>
 
-  <p>Frameworks, Platforms and Libraries</p>
+  <p>📚 Frameworks, Platforms and Libraries 📚</p>
 
   <p>
     <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3">
   </p>
 
-  <p>🎮 Gaming</p>
+  <p>🎮 Gaming 🎮</p>
 
   <p>
     <img src="https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white">
@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white">
   </p>
 
-  <p>Etc</p>
+  <p>🌀 Etc 🌀</p>
 
   <p>
     <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
