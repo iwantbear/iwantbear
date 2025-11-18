@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwantbear&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwantbear&layout=compact&exclude_langs=Jupyter%20Notebook">
 </div>
 
 <br>
