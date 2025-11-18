@@ -15,7 +15,7 @@ Hi there 👋
 <br>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwantbear&layout=compact&exclude_langs=Jupyter&cache_bust=true">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iwantbear&theme=2077}&exclude={exclude}">
 </div>
 
 <br>
