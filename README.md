@@ -15,7 +15,7 @@ Hi there 👋
 <br>
 
 <div align="center">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iwantbear&theme=2077&exclude=html,jupyter%20Notebook">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iwantbear&theme=2077">
 </div>
 
 <br>
